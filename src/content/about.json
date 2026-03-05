@@ -28,19 +28,5 @@
       { "text": "ship robust solutions to real-world problems", "bold": true },
       { "text": " fast.", "bold": false }
     ]
-  ],
-  "stats": [
-    {
-      "number": "700K+",
-      "label": "Daily users reached",
-      "colorClass": "text-coral"
-    },
-    { "number": "5+", "label": "Years shipping", "colorClass": "text-blue" },
-    {
-      "number": "3",
-      "label": "Regulated industries",
-      "colorClass": "text-coral"
-    },
-    { "number": "∞", "label": "Curiosity", "colorClass": "text-blue" }
   ]
 }

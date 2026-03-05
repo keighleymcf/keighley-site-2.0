@@ -1,0 +1,40 @@
+# Keighley McFarland — Senior Applied AI Engineer
+
+> Personal portfolio website for Keighley McFarland, Senior Applied AI Engineer and Entrepreneur. Specialising in production-grade AI systems for regulated industries including healthcare, fintech, and beyond.
+
+## About
+
+Keighley McFarland is a senior Applied AI Engineer and Entrepreneur who builds AI products that are scalable, delightful, and production-ready for critical industries. She pivoted from research and project management → web development → AI engineering and entrepreneurship. 
+
+## Skills & Technologies
+
+**AI/ML:** LLMs, Context Engineering, LLM Security, AI-First Coding, Image Generation, Diffusion Models, Prompt Engineering, Agent Harnesses, OpenAI, Claude, Gemini, Ehical AI
+
+**Frontend:** React, TypeScript, Tailwind, Vite
+
+**Backend & Infra:** Python, Node.js, GraphQL, REST, Docker, Kubernetes, AWS, CI/CD, MongoDB, Supabase, Nx
+
+**Compliance & Governance:** EU AI Act, ISO, GDPR, Data Privacy
+
+**Leadership:** Mentoring, SDLC Workflow Innovation, Process Management
+
+## Recent Career Achievements
+
+- **Shipped AI-Powered Cancer Genomics Solutions** (Qnomx AG) — Shipped multiple AI & web products averaging 5x faster delivery and 20x person-hour savings compared to traditional development.
+- **Recognized for Ethical AI Children's Book Project** (Warm Fuzzy Story Club) — Created personalised children's book engine & e-commerce with top-quality illustration generation using diffusion models. Content Vienna Award finalist.
+- **Vibecoded Prototypes → Production Applications** (Career-wide) — Repeatedly scaled AI-first products from rapid prototypes to secure, production-grade deployments across healthcare, fintech, and consumer AI.
+- **Championed AI Innovations in Fintech** (N26) — Prototyped AI-powered innovations for dynamic marketing content for 700k+ daily users at leading digital bank. Achieved cross-department buy-in in compliance-heavy environment.
+- **Drove Adoption of AI-First Engineering Workflows** (Career-wide) — Redesigned workflows and upskilled teams to adopt AI-first practices across multiple teams and products.
+
+## Recognition & Awards
+
+- **Finalist, Content Vienna Prize** — Vienna Business Agency. Warm Fuzzy Story Club selected as a finalist for the Content Vienna Prize for innovative projects in the creative industry.
+- **LEA Role Model for Women+ in Tech** — Austrian Federal Chancellery Let's Empower Austria Initiative. Recognized as a role model for women+ in tech.
+
+## Contact & Links
+
+- Website: https://keighleymcfarland.me/
+- LinkedIn: https://linkedin.com/in/keighleymcfarland
+- GitHub: https://github.com/keighleymcf
+- Substack: https://substack.com/@keighleymcf
+- Available for: speaking engagements and collaborations in applied AI engineering

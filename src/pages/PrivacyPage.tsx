@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { Banner } from "@/components/Banner";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
+import { Heading, Body } from "@/components/Typography";
 import { ROUTES } from "@/routes/routes";
 import privacyContent from "@/content/privacy.json";
 
@@ -11,20 +12,20 @@ export function PrivacyPage() {
       <Banner />
       <Nav />
       <main className="flex-1 py-20 px-6 md:px-10 max-w-2xl mx-auto w-full">
-        <h1 className="font-hero text-4xl md:text-5xl uppercase mb-8">
+        <Heading level={1} className="mb-8">
           {privacyContent.heading}
-        </h1>
-        <div className="text-[#555] leading-relaxed space-y-6">
-          <p>
+        </Heading>
+        <div className="space-y-6">
+          <Body>
             <strong className="text-black">Last updated:</strong>{" "}
             {privacyContent.lastUpdated}
-          </p>
+          </Body>
           {privacyContent.sections.map((section) => (
             <div key={section.heading}>
-              <h2 className="font-semibold text-black text-lg mt-8 mb-2">
+              <Heading level={2} className="mt-8 mb-2">
                 {section.heading}
-              </h2>
-              <p>{section.body}</p>
+              </Heading>
+              <Body>{section.body}</Body>
             </div>
           ))}
         </div>
