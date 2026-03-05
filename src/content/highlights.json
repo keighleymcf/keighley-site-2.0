@@ -1,0 +1,40 @@
+{
+  "heading": "Recent Achievements",
+  "cards": [
+    {
+      "id": 1,
+      "title": "Shipped AI-Powered Cancer Genomics Solutions",
+      "subtitle": "Qnomx AG",
+      "description": "Shipped multiple AI & web products averaging 5x faster delivery and 20x person-hour savings compared to traditional development.",
+      "color": "green"
+    },
+    {
+      "id": 2,
+      "title": "Recognized for Ethical AI Children's Book Project",
+      "subtitle": "Warm Fuzzy Story Club",
+      "description": "Created personalised children's book engine & e-commerce with top-quality illustration generation using diffusion models. Content Vienna Award finalist.",
+      "color": "yellow"
+    },
+    {
+      "id": 3,
+      "title": "Championed AI Innovations in Fintech",
+      "subtitle": "N26",
+      "description": "Prototyped AI-powered innovations for dynamic marketing content for 700k+ daily users at leading digital bank. Achieved cross-department buy-in in compliance-heavy environment.",
+      "color": "blue"
+    },
+    {
+      "id": 4,
+      "title": "Pioneered AI-first engineering workflows",
+      "subtitle": "Career-wide",
+      "description": "Redesigned workflows and upskilled teams to adopt AI-first practices across multiple teams and products. Filtered noise and hype from value-adding innovation.",
+      "color": "lavender"
+    },
+    {
+      "id": 5,
+      "title": "Vibecoded Prototypes → Production Applications",
+      "subtitle": "Career-wide",
+      "description": "Repeatedly scaled AI-first products from rapid prototypes to secure, production-grade deployments across healthcare, fintech, and consumer AI.",
+      "color": "coral"
+    }
+  ]
+}

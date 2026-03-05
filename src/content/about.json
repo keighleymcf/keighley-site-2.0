@@ -1,0 +1,46 @@
+{
+  "heading": {
+    "name": "Keighley McFarland",
+    "title": "Applied AI Engineering & Entrepreneurship"
+  },
+  "paragraphs": [
+    [
+      {
+        "text": "I'm a senior Applied AI Engineer and Entrepreneur, specializing in building production-grade AI systems for ",
+        "bold": false
+      },
+      { "text": "regulated industries", "bold": true },
+      { "text": " — healthcare, fintech, and beyond.", "bold": false }
+    ],
+    [
+      {
+        "text": "I pivoted my career from research and project management → web development → AI engineering and entrepreneurship.",
+        "bold": false
+      }
+    ],
+    [
+      { "text": "Learning and adapting at top speed is the ", "bold": false },
+      { "text": "future of engineering", "bold": true },
+      {
+        "text": " and I never stop. I filter the hype from the real value at the bleeding edge of technology to ",
+        "bold": false
+      },
+      { "text": "ship robust solutions to real-world problems", "bold": true },
+      { "text": " fast.", "bold": false }
+    ]
+  ],
+  "stats": [
+    {
+      "number": "700K+",
+      "label": "Daily users reached",
+      "colorClass": "text-coral"
+    },
+    { "number": "5+", "label": "Years shipping", "colorClass": "text-blue" },
+    {
+      "number": "3",
+      "label": "Regulated industries",
+      "colorClass": "text-coral"
+    },
+    { "number": "∞", "label": "Curiosity", "colorClass": "text-blue" }
+  ]
+}

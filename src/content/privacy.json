@@ -1,0 +1,23 @@
+{
+  "heading": "Privacy Policy",
+  "lastUpdated": "January 2026",
+  "backLabel": "← Back to home",
+  "sections": [
+    {
+      "heading": "Data collected via the contact form",
+      "body": "When you submit the contact form on this website, I collect your name, email address, and the message you send. This data is used solely to respond to your enquiry and is not shared with third parties, sold, or used for marketing purposes."
+    },
+    {
+      "heading": "Data retention",
+      "body": "Contact form submissions are retained only as long as necessary to respond to your request and are deleted thereafter."
+    },
+    {
+      "heading": "Your rights",
+      "body": "Under the EU GDPR, you have the right to access, correct, or request deletion of your personal data at any time. To exercise these rights, contact me via the contact form."
+    },
+    {
+      "heading": "Cookies",
+      "body": "This website does not use tracking cookies or analytics services."
+    }
+  ]
+}

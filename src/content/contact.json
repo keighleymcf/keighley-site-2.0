@@ -1,0 +1,32 @@
+{
+  "heading": "Let's Build Something Real",
+  "description": "Contact me about speaking engagements or collaborations in applied AI engineering",
+  "links": [
+    {
+      "label": "LinkedIn",
+      "href": "https://linkedin.com/in/keighleymcfarland",
+      "external": true
+    },
+    {
+      "label": "GitHub",
+      "href": "https://github.com/keighleymcf",
+      "external": true
+    },
+    {
+      "label": "Substack",
+      "href": "https://substack.com/@keighleymcf",
+      "external": true
+    }
+  ],
+  "form": {
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your@email.com",
+    "messagePlaceholder": "What are you working on?",
+    "submitLabel": "Send message",
+    "successMessage": "Sent ✓ I'll be in touch soon.",
+    "privacyDisclaimer": "By submitting this form, you agree to the processing of your personal data in accordance with our",
+    "privacyLinkLabel": "Privacy Policy",
+    "errorMessage": "Something went wrong. Please try again.",
+    "sendingLabel": "Sending..."
+  }
+}

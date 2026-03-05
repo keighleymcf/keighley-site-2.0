@@ -1,0 +1,67 @@
+{
+  "items": [
+    { "name": "React", "separator": "⚛", "separatorColor": "coral" },
+    { "name": "TypeScript", "separator": "⎈", "separatorColor": "blue" },
+    { "name": "Python", "separator": "λ", "separatorColor": "green" },
+    { "name": "LLMs", "separator": "∿", "separatorColor": "yellow" },
+    {
+      "name": "Context Engineering",
+      "separator": "◈",
+      "separatorColor": "coral"
+    },
+    { "name": "LLM Security", "separator": "⧓", "separatorColor": "green" },
+    {
+      "name": "AI-First Coding",
+      "separator": "⚛",
+      "separatorColor": "yellow"
+    },
+    { "name": "Image Gen", "separator": "∿", "separatorColor": "lavender" },
+    {
+      "name": "Diffusion Models",
+      "separator": "⊕",
+      "separatorColor": "coral"
+    },
+    { "name": "OpenAI", "separator": "◈", "separatorColor": "blue" },
+    { "name": "Claude", "separator": "⎈", "separatorColor": "green" },
+    {
+      "name": "Agent Harnesses",
+      "separator": "▶",
+      "separatorColor": "blue"
+    },
+    { "name": "Node.js", "separator": "λ", "separatorColor": "lavender" },
+    { "name": "GraphQL", "separator": "◈", "separatorColor": "coral" },
+    { "name": "CI/CD", "separator": "λ", "separatorColor": "coral" },
+    { "name": "React", "separator": "⚛", "separatorColor": "blue" },
+    { "name": "Kubernetes", "separator": "⎈", "separatorColor": "green" },
+    { "name": "AWS", "separator": "▶", "separatorColor": "yellow" },
+    {
+      "name": "Prompt Engineering",
+      "separator": "⊕",
+      "separatorColor": "lavender"
+    },
+    { "name": "Docker", "separator": "⧓", "separatorColor": "lavender" },
+    { "name": "MongoDB", "separator": "◈", "separatorColor": "blue" },
+    { "name": "Gemini", "separator": "∿", "separatorColor": "yellow" },
+    { "name": "Supabase", "separator": "⊕", "separatorColor": "green" },
+    { "name": "Vite", "separator": "▶", "separatorColor": "yellow" },
+    { "name": "Tailwind", "separator": "⚛", "separatorColor": "lavender" },
+    { "name": "Nx", "separator": "⎈", "separatorColor": "coral" },
+    {
+      "name": "Workflow Innovation",
+      "separator": "∿",
+      "separatorColor": "blue"
+    },
+    { "name": "EU AI Act", "separator": "⊕", "separatorColor": "green" },
+    { "name": "ISO", "separator": "⧓", "separatorColor": "lavender" },
+    { "name": "Mentoring", "separator": "λ", "separatorColor": "coral" },
+    { "name": "Leadership", "separator": "▶", "separatorColor": "blue" },
+    {
+      "name": "Process Management",
+      "separator": "⚛",
+      "separatorColor": "green"
+    },
+    { "name": "REST", "separator": "◈", "separatorColor": "yellow" },
+    { "name": "GDPR", "separator": "⎈", "separatorColor": "lavender" },
+    { "name": "Data Privacy", "separator": "λ", "separatorColor": "coral" }
+  ]
+}

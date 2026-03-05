@@ -1,0 +1,16 @@
+{
+  "banner": "Keighley McFarland ∿ Senior Applied AI Engineer",
+  "nav": {
+    "logo": "KM",
+    "links": [
+      { "label": "About", "path": "/about" },
+      { "label": "Work", "path": "/work" },
+      { "label": "Awards", "path": "/awards" },
+      { "label": "Contact", "path": "/contact" }
+    ]
+  },
+  "footer": {
+    "copyright": "Built with coffee (and vibes)",
+    "privacyLinkLabel": "Privacy Policy"
+  }
+}
